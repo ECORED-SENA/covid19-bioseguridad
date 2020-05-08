@@ -1,0 +1,165 @@
+[
+  {
+    "letter": "b",
+    "terms": [
+      {
+        "title": "Bioseguridad",
+        "desciption": "Son las prácticas que tienen por objeto eliminar o minimizar el factor de riesgo que pueda llegar a afectar la salud o la vida de las personas o pueda contaminar el ambiente."
+      }
+    ]
+  },
+  {
+    "letter": "c",
+    "terms": [
+      {
+        "title": "Comunicación asertiva",
+        "desciption": "La comunicación asertiva como habilidad social de relación es una forma de expresión consciente, mediante la cual se manifiestan las ideas, deseos, opiniones, sentimientos o derechos de forma  congruente, clara, directa, equilibrada, honesta  y respetuosa, sin la intención de herir o perjudicar y actuando desde una perspectiva de autoconfianza."
+      },
+      {
+        "title": "Control",
+        "desciption": "El control es una de las etapas que forman el proceso administrativo, en la cual se puede tener una información más precisa de lo que sucede.<br><br>Es la función administrativa que consiste en medir y corregir el desempeño individual y organizacional para asegurar que los hechos se ajusten a los planes y objetivos de las empresas. Implica medir el desempeño contra las metas y los planes, muestra donde existen desviaciones con los estándares y ayuda a corregirlas."
+      },
+      {
+        "title": "Controles administrativo",
+        "desciption": "El control es la función administrativa por medio de la cual se evalúa el rendimiento. El control es un elemento del proceso administrativo que incluye todas las actividades que se emprenden para garantizar que las operaciones reales coincidan con las operaciones planificadas."
+      },
+      {
+        "title": "Controles Ambientales",
+        "desciption": "El control ambiental se refiere a la habilidad que tenemos para manejarnos en un entorno difícil, teniendo la capacidad de adaptarnos a las distintas circunstancias no favorables que van surgiendo."
+      },
+      {
+        "title": "Controles de ingeniería",
+        "desciption": "Los controles de ingeniería implican el uso de tecnologías tales como el control de flujo de aire, los filtros y diversas formas de contención, normalmente usadas para limitar la diseminación de un peligro."
+      },
+      {
+        "title": "Coronavirus-CoV",
+        "desciption": "Los coronavirus CoV son virus que causan infección respiratoria y aparecen periódicamente en todo el mundo."
+      },
+      {
+        "title": "Corrosivo",
+        "desciption": "Corrosivo es un producto químico muy fuerte que puede atacar o destruir tejidos vivos o metales."
+      },
+   ]
+  }, 
+  {
+    "letter": "e",
+    "terms": [
+      {
+        "title": "Elementos de protección - EPP",
+        "desciption": "Cualquier elemento o dispositivo empleado por un trabajador para protegerlo de uno o varios riesgos en el trabajo."
+      },
+      {
+        "title": "Embalaje",
+        "desciption": "Un recipiente o envoltura que contiene productos de manera temporal principalmente para agrupar unidades de un producto pensando en su manipulación, transporte y almacenaje."
+      }
+    ]
+  },  
+  {
+    "letter": "f",
+    "terms": [
+      {
+        "title": "Flora residente",
+        "desciption": "Microorganismos que viven y se multiplican en la piel, son de baja virulencia, la mayoría se encuentran en las capas superficiales de la piel."
+      },
+      {
+        "title": "Flora Transitoria",
+        "desciption": "Son organismos que se adquieren por el contacto persona a persona u objetos inanimados contaminados."
+      },
+      {
+        "title": "Fomite",
+        "desciption": "Es cualquier objeto carente de vida o sustancia que es capaz de transportar organismos infecciosos tales como bacterias, virus, hongos o parásitos desde un individuo a otro."
+      }
+    ]
+  },
+  {
+    "letter": "g",
+    "terms": [
+      {
+        "title": "Gestor de residuos",
+        "desciption": "Es aquella persona o entidad, pública o privada, registrada mediante autorización o comunicación que realice cualquiera de las operaciones que componen la gestión de los residuos, sea o no el productor de los mismos. La función principal de un gestor de residuos es la recogida, el transporte y el tratamiento de los residuos."
+      }
+    ]
+  },
+  {
+    "letter": "h",
+    "terms": [
+      {
+        "title": "Higienización de manos ",
+        "desciption": "Es la forma más eficaz de prevenir la infección cruzada entre pacientes, personal hospitalario y visitante. La Organización Mundial de la Salud resumió en su campaña de “Los 5 momentos” lanzada en el 2006, las oportunidades en las cuales se debe llevar a cabo esta práctica, tienen los mismos pasos del lavado de manos, pero se realiza con un antiséptico preferiblemente alcohol glicerinado."
+      }
+    ]
+  },
+  {
+    "letter": "l",
+    "terms": [
+      {
+        "title": "Lavado de manos",
+        "desciption": "Es la Limpieza activa, que busca reducir la flora residente y transitoria de las manos y antebrazos con un agente químico de composición en bases de agentes yodados, clorhexidina, que en contacto con el agua crea una acción mecánica y repetitiva para eliminar las fuentes de infección. Y/o gel antiséptico de acción inmediata que no requiere enjuague. El lavado de manos del personal de salud es una práctica higiénica muy importante y obligada, para prevenir la transmisión de agentes infecciosos del personal a los pacientes y de unos pacientes a otros, a través de las manipulaciones realizadas por el personal. "
+      },
+      {
+        "title": "Limpieza",
+        "desciption": "Procedimiento mecánico que remueve el material extraño u orgánico de las superficies que puedan preservar bacterias al oponerse a la acción de biodegrabilidad de las soluciones antisépticas."
+      }
+    ]
+  },
+  {
+    "letter": "m",
+    "terms": [
+      {
+        "title": "Material contaminado",
+        "desciption": "Cualquier material o elemento que ha estado en contacto con microorganismos,que funcione como fomite o sea sospechoso de estar contaminado."
+      }
+    ]
+  },   
+  {
+    "letter": "p",
+    "terms": [
+      {
+        "title": "Protección corporal(Bata)",
+        "desciption": "Esta condición impide que el personal que lo emplee contamine su ropa durante procedimientos con riesgo de salpicadura de sangre u otros fluidos corporales."
+      },
+      {
+        "title": "Protección ocular (Gafas y escudo facial)",
+        "desciption": "Dispositivos diseñados para cubrir de manera oclusiva  todo el contorno de los ojos e impedir el contacto de partículas con la mucosa conjuntival."
+      },
+      {
+        "title": "Protección personal",
+        "desciption": "Por protección personal se entiende la técnica que tiene por objetivo proteger al trabajador ante agresiones externas que se puedan presentar en el desempeño de la actividad laboral."
+      },
+      {
+        "title": "Protección Respiratoria(Mascarillas y respiradores)",
+        "desciption": "Dispositivos que  generan una barrera entre  zonas corporales del operador y las áreas contaminadas de un paciente que son puerta de salida para microorganismos infectantes (nariz y boca)."
+      }
+    ]
+  },  
+  {
+    "letter": "r",
+    "terms": [
+      {
+        "title": "Radiactivo",
+        "desciption": "Algunas sustancias o elementos químicos llamadas que son capaces de emitir radiaciones, las cuales tienen la propiedad de impresionar placas fotográficas, ionizar gases, producir fluorescencia."
+      },
+      {
+        "title": "Replicación genética",
+        "desciption": "El proceso de replicación, de ADN es el mecanismo que permite al ADN duplicarse (es decir, sintetizar una copia idéntica). De esta manera de una molécula de ADN única, se obtienen dos o más."
+      },
+      {
+        "title": "Residuos o desechos peligrosos con riesgo biológico o infeccioso",
+        "desciption": "Un residuo o desecho con riesgo biológico o infeccioso se considera peligroso cuando contiene agentes patógenos como microorganismos y otros agentes con suficiente virulencia y concentración como para causar enfermedades en los seres humanos o en los animales."
+      },
+      {
+        "title": "Riesgo Biológico",
+        "desciption": "Consiste en la presencia de un organismo, o la sustancia derivada de un organismo, que puede presentar una amenaza a la salud humana como residuos con características biológicas-infecciosas, muestras de un microorganismo, virus o toxina de una fuente biológica que puede resultar patógena."
+      }
+    ]
+  },    
+  {
+    "letter": "v",
+    "terms": [
+      {
+        "title": "Vías de transmisión",
+        "desciption": "Mecanismo mediante el cual un microorganismo pasa de un hospedero a otro."
+      }
+    ]
+  }
+]

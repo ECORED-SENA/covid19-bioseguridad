@@ -1,0 +1,85 @@
+[
+  {
+    "icon": "fa fa-1x fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "../"
+  },
+  {
+        "icon": "video",
+        "slug": "introduccion",
+        "title": "1. Generalidades y alcance",
+        "breadcrumb": ["Inicio","Generalidades y alcance"],
+        "path": "pages/modulo-1.html"    
+  },
+  {
+    "icon": "video",
+    "slug": "modulo-2",
+    "title": "2. Precauciones según mecanismo de transmisión",
+    "breadcrumb": [
+      "Inicio",
+      "Precauciones según mecanismo de transmisión"
+    ],
+    "path": "pages/modulo-2.html"
+  },  
+  {
+    "icon": "video",
+    "slug": "modulo-3",
+    "title": "3. Uso de elementos de protección personal",
+    "breadcrumb": [
+      "Inicio",
+      "Uso de elementos de protección personal"
+    ],
+    "path": "pages/modulo-3.html"
+  },
+  {
+    "icon": "video",
+    "slug": "modulo-4",
+    "title": "4. Lavado de manos",
+    "breadcrumb": [
+      "Inicio",
+      "Lavado de manos"
+    ],
+    "path": "pages/modulo-4.html"
+  },
+  {
+    "icon": "video",
+    "slug": "modulo-5",
+    "title": "5. Medidas de control ambiental",
+    "breadcrumb": [
+      "Inicio",
+      "Medidas de control ambiental"
+    ],
+    "path": "pages/modulo-5.html"
+  },
+  {
+    "icon": "fa fa-1x fa-question-circle",
+    "slug": "actividad-01",
+    "title": "Actividad didáctica",
+    "breadcrumb": [
+      "Inicio",
+      "Actividad didáctica"
+    ],
+    "path": "pages/actividad-01.html"
+  },  
+  {
+    "icon": "document",
+    "slug": "modulo-6",
+    "title": "6. Comunicación asertiva frente a enfermedad COVID-19",
+    "breadcrumb": [
+      "Inicio",
+      "Comunicación asertiva frente a enfermedad COVID-19"
+    ],
+    "path": "pages/modulo-6.html"
+  },  
+  {
+    "icon": "video",
+    "slug": "modulo-7",
+    "title": "7. Ruta para el reporte de accidente de trabajo o enfermedad laboral de un trabajador de la salud por exposición a COVID- 19",
+    "breadcrumb": [
+      "Inicio",
+      "Ruta para el reporte de accidente de trabajo o enfermedad laboral de un trabajador de la salud por exposición a COVID- 19"
+    ],
+    "path": "pages/modulo-7.html"
+  }
+]
