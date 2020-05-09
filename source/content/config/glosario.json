@@ -38,9 +38,9 @@
       {
         "title": "Corrosivo",
         "desciption": "Corrosivo es un producto químico muy fuerte que puede atacar o destruir tejidos vivos o metales."
-      },
-   ]
-  }, 
+      }
+    ]
+  },
   {
     "letter": "e",
     "terms": [
@@ -53,7 +53,7 @@
         "desciption": "Un recipiente o envoltura que contiene productos de manera temporal principalmente para agrupar unidades de un producto pensando en su manipulación, transporte y almacenaje."
       }
     ]
-  },  
+  },
   {
     "letter": "f",
     "terms": [
@@ -110,7 +110,7 @@
         "desciption": "Cualquier material o elemento que ha estado en contacto con microorganismos,que funcione como fomite o sea sospechoso de estar contaminado."
       }
     ]
-  },   
+  },
   {
     "letter": "p",
     "terms": [
@@ -131,7 +131,7 @@
         "desciption": "Dispositivos que  generan una barrera entre  zonas corporales del operador y las áreas contaminadas de un paciente que son puerta de salida para microorganismos infectantes (nariz y boca)."
       }
     ]
-  },  
+  },
   {
     "letter": "r",
     "terms": [
@@ -152,7 +152,7 @@
         "desciption": "Consiste en la presencia de un organismo, o la sustancia derivada de un organismo, que puede presentar una amenaza a la salud humana como residuos con características biológicas-infecciosas, muestras de un microorganismo, virus o toxina de una fuente biológica que puede resultar patógena."
       }
     ]
-  },    
+  },
   {
     "letter": "v",
     "terms": [
@@ -161,5 +161,5 @@
         "desciption": "Mecanismo mediante el cual un microorganismo pasa de un hospedero a otro."
       }
     ]
-  }
+  }      
 ]

@@ -2,8 +2,8 @@
   {
     "icon": "fa fa-1x fa-home",
     "slug": "external",
-    "title": "Volver al Inicio",
-    "path": "../"
+    "title": "Volver al inicio",
+    "path": "../index.html"
   },
   {
         "icon": "video",

@@ -134,6 +134,7 @@ function renderNavbarExtras(navBar) {
     document.getElementById("verticalNavbar__sidebar").style.maxHeight = (window.innerHeight - ($('#verticalNavbar__extra .nav-item')[0].offsetHeight * navBar.length)) + "px";
 }
 
+
 async function renderGlossary(slug) {
     let item = sessionStorage.getItem(slug);
     contentObject = JSON.parse(item);
@@ -151,7 +152,10 @@ async function renderGlossary(slug) {
         htmlGlossary += '</div></div></div>';
         mainContent.innerHTML = htmlGlossary;
     }).then(function () { $("body").loader('hide'); });
+
+    $('body,html').stop(true, true).animate({ scrollTop: 0 }, 1000);
 }
+
 
 function renderConfig(data) {
     document.getElementById('header__titleProgram').textContent = data.programName;
