@@ -20,11 +20,11 @@
         "desciption": "El control es una de las etapas que forman el proceso administrativo, en la cual se puede tener una información más precisa de lo que sucede.<br><br>Es la función administrativa que consiste en medir y corregir el desempeño individual y organizacional para asegurar que los hechos se ajusten a los planes y objetivos de las empresas. Implica medir el desempeño contra las metas y los planes, muestra donde existen desviaciones con los estándares y ayuda a corregirlas."
       },
       {
-        "title": "Controles administrativo",
+        "title": "Controles administrativos",
         "desciption": "El control es la función administrativa por medio de la cual se evalúa el rendimiento. El control es un elemento del proceso administrativo que incluye todas las actividades que se emprenden para garantizar que las operaciones reales coincidan con las operaciones planificadas."
       },
       {
-        "title": "Controles Ambientales",
+        "title": "Controles ambientales",
         "desciption": "El control ambiental se refiere a la habilidad que tenemos para manejarnos en un entorno difícil, teniendo la capacidad de adaptarnos a las distintas circunstancias no favorables que van surgiendo."
       },
       {
@@ -62,11 +62,11 @@
         "desciption": "Microorganismos que viven y se multiplican en la piel, son de baja virulencia, la mayoría se encuentran en las capas superficiales de la piel."
       },
       {
-        "title": "Flora Transitoria",
+        "title": "Flora transitoria",
         "desciption": "Son organismos que se adquieren por el contacto persona a persona u objetos inanimados contaminados."
       },
       {
-        "title": "Fomite",
+        "title": "Fómite",
         "desciption": "Es cualquier objeto carente de vida o sustancia que es capaz de transportar organismos infecciosos tales como bacterias, virus, hongos o parásitos desde un individuo a otro."
       }
     ]
@@ -107,7 +107,7 @@
     "terms": [
       {
         "title": "Material contaminado",
-        "desciption": "Cualquier material o elemento que ha estado en contacto con microorganismos,que funcione como fomite o sea sospechoso de estar contaminado."
+        "desciption": "Cualquier material o elemento que ha estado en contacto con microorganismos, que funcione como fómite o sea sospechoso de estar contaminado."
       }
     ]
   },
@@ -115,7 +115,7 @@
     "letter": "p",
     "terms": [
       {
-        "title": "Protección corporal(Bata)",
+        "title": "Protección corporal (Bata)",
         "desciption": "Esta condición impide que el personal que lo emplee contamine su ropa durante procedimientos con riesgo de salpicadura de sangre u otros fluidos corporales."
       },
       {
@@ -127,7 +127,7 @@
         "desciption": "Por protección personal se entiende la técnica que tiene por objetivo proteger al trabajador ante agresiones externas que se puedan presentar en el desempeño de la actividad laboral."
       },
       {
-        "title": "Protección Respiratoria(Mascarillas y respiradores)",
+        "title": "Protección respiratoria (Mascarillas y respiradores)",
         "desciption": "Dispositivos que  generan una barrera entre  zonas corporales del operador y las áreas contaminadas de un paciente que son puerta de salida para microorganismos infectantes (nariz y boca)."
       }
     ]
@@ -148,7 +148,7 @@
         "desciption": "Un residuo o desecho con riesgo biológico o infeccioso se considera peligroso cuando contiene agentes patógenos como microorganismos y otros agentes con suficiente virulencia y concentración como para causar enfermedades en los seres humanos o en los animales."
       },
       {
-        "title": "Riesgo Biológico",
+        "title": "Riesgo biológico",
         "desciption": "Consiste en la presencia de un organismo, o la sustancia derivada de un organismo, que puede presentar una amenaza a la salud humana como residuos con características biológicas-infecciosas, muestras de un microorganismo, virus o toxina de una fuente biológica que puede resultar patógena."
       }
     ]
